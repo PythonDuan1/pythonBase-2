@@ -9,3 +9,4 @@ print("your command is %s"%command)
 print("nice work")
 
 print("this is version 3")
+print("duan is comming")
